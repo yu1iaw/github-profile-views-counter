@@ -259,9 +259,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/yu1iaw/github-profile-views-counter/raw/master/graph/663179080/small/year.png" height="20"> 0
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/yu1iaw/github-profile-views-counter/tree/master/readme/672327717/year.md">
+				rn-sun
+			</a>
+		</td>
+		<td>
+			2023/7/26 5:57 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/yu1iaw/github-profile-views-counter/raw/master/graph/672327717/small/year.png" height="20"> 0
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2023/7/29 12:15 PM UTC</i></small>
+<small><i>Last updated on 2023/7/29 5:57 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge

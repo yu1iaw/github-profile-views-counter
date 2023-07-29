@@ -1,7 +1,7 @@
 ## [🔙 github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter)
 
-### :octocat: [more-slices-bigger-the-pie-](https://github.com/yu1iaw/more-slices-bigger-the-pie-)
-![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/515932472/large/year.png)
+### :octocat: [rn-sun](https://github.com/yu1iaw/rn-sun)
+![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/672327717/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -34,10 +34,10 @@
 			<code>2023/6/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -168,14 +168,14 @@
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/515932472/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/515932472/week.md)
+[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/672327717/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/672327717/week.md)
 ```readme
-[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/515932472/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/515932472/week.md)
+[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/672327717/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/672327717/week.md)
 ```
 ### Header
-# more-slices-bigger-the-pie- [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/515932472/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/515932472/year.md)
+# rn-sun [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/672327717/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/672327717/year.md)
 ```readme
-# more-slices-bigger-the-pie- [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/515932472/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/515932472/year.md)
+# rn-sun [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/672327717/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/672327717/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
