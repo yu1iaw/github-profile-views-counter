@@ -1,7 +1,7 @@
 ## [🔙 github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter)
 
-### :octocat: [socket-app](https://github.com/yu1iaw/socket-app)
-![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/659772349/large/year.png)
+### :octocat: [next-tailwind-docker](https://github.com/yu1iaw/next-tailwind-docker)
+![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/711904129/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2023/10/1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>1</code>
 		</td>
 	</tr>
 	<tr>
@@ -67,10 +67,10 @@
 			<code>2023/6/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>39</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2023/10/30 5:09 PM UTC</i></small>
+<small><i>Last updated on 2023/10/30 5:11 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/659772349/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/659772349/week.md)
+[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/711904129/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/711904129/week.md)
 ```readme
-[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/659772349/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/659772349/week.md)
+[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/711904129/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/711904129/week.md)
 ```
 ### Header
-# socket-app [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/659772349/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/659772349/year.md)
+# next-tailwind-docker [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/711904129/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/711904129/year.md)
 ```readme
-# socket-app [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/659772349/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/659772349/year.md)
+# next-tailwind-docker [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/711904129/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/711904129/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
