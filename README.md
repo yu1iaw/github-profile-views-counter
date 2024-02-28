@@ -323,9 +323,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/yu1iaw/github-profile-views-counter/raw/master/graph/711904129/small/year.png" height="20"> 8
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/yu1iaw/github-profile-views-counter/tree/master/readme/764600091/year.md">
+				sicilian_pizza_ordering
+			</a>
+		</td>
+		<td>
+			2024/2/25 11:32 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/yu1iaw/github-profile-views-counter/raw/master/graph/764600091/small/year.png" height="20"> 0
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2024/2/28 6:12 AM UTC</i></small>
+<small><i>Last updated on 2024/2/28 11:32 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge

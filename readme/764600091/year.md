@@ -1,7 +1,7 @@
 ## [🔙 github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter)
 
-### :octocat: [u-pamers-social](https://github.com/yu1iaw/u-pamers-social)
-![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/725245832/large/year.png)
+### :octocat: [sicilian_pizza_ordering](https://github.com/yu1iaw/sicilian_pizza_ordering)
+![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/764600091/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -34,10 +34,10 @@
 			<code>2024/1/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -45,10 +45,10 @@
 			<code>2023/12/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>17</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2024/2/28 11:30 AM UTC</i></small>
+<small><i>Last updated on 2024/2/28 11:32 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/725245832/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/725245832/week.md)
+[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/764600091/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/764600091/week.md)
 ```readme
-[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/725245832/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/725245832/week.md)
+[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/764600091/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/764600091/week.md)
 ```
 ### Header
-# u-pamers-social [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/725245832/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/725245832/year.md)
+# sicilian_pizza_ordering [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/764600091/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/764600091/year.md)
 ```readme
-# u-pamers-social [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/725245832/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/725245832/year.md)
+# sicilian_pizza_ordering [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/764600091/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/764600091/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
