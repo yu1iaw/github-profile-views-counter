@@ -339,9 +339,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/yu1iaw/github-profile-views-counter/raw/master/graph/764600091/small/year.png" height="20"> 1
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/yu1iaw/github-profile-views-counter/tree/master/readme/784912345/year.md">
+				react-snippets-extension
+			</a>
+		</td>
+		<td>
+			2024/4/7 10:49 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/yu1iaw/github-profile-views-counter/raw/master/graph/784912345/small/year.png" height="20"> 1
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2024/4/10 6:14 PM UTC</i></small>
+<small><i>Last updated on 2024/4/10 10:49 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge

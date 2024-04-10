@@ -1,7 +1,7 @@
 ## [🔙 github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter)
 
-### :octocat: [more-slices-bigger-the-pie-](https://github.com/yu1iaw/more-slices-bigger-the-pie-)
-![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/515932472/large/year.png)
+### :octocat: [react-snippets-extension](https://github.com/yu1iaw/react-snippets-extension)
+![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/784912345/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2024/4/1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>1</code>
 		</td>
 	</tr>
 	<tr>
@@ -133,10 +133,10 @@
 			<code>2023/6/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2024/4/10 10:48 PM UTC</i></small>
+<small><i>Last updated on 2024/4/10 10:49 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/515932472/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/515932472/week.md)
+[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/784912345/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/784912345/week.md)
 ```readme
-[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/515932472/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/515932472/week.md)
+[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/784912345/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/784912345/week.md)
 ```
 ### Header
-# more-slices-bigger-the-pie- [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/515932472/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/515932472/year.md)
+# react-snippets-extension [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/784912345/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/784912345/year.md)
 ```readme
-# more-slices-bigger-the-pie- [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/515932472/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/515932472/year.md)
+# react-snippets-extension [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/784912345/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/784912345/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
