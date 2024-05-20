@@ -355,9 +355,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/yu1iaw/github-profile-views-counter/raw/master/graph/784912345/small/year.png" height="20"> 13
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/yu1iaw/github-profile-views-counter/tree/master/readme/801638804/year.md">
+				simgrim-trading
+			</a>
+		</td>
+		<td>
+			2024/5/17 12:30 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/yu1iaw/github-profile-views-counter/raw/master/graph/801638804/small/year.png" height="20"> 15
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2024/5/20 12:21 PM UTC</i></small>
+<small><i>Last updated on 2024/5/20 12:30 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge

@@ -1,7 +1,7 @@
 ## [🔙 github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter)
 
-### :octocat: [ReactApps](https://github.com/yu1iaw/ReactApps)
-![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/555288473/large/year.png)
+### :octocat: [simgrim-trading](https://github.com/yu1iaw/simgrim-trading)
+![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/801638804/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2024/5/1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>15</code>
 		</td>
 	</tr>
 	<tr>
@@ -100,10 +100,10 @@
 			<code>2023/10/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>9</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -122,10 +122,10 @@
 			<code>2023/8/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>15</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -144,10 +144,10 @@
 			<code>2023/6/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2024/5/20 12:29 PM UTC</i></small>
+<small><i>Last updated on 2024/5/20 12:30 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/555288473/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/555288473/week.md)
+[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/801638804/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/801638804/week.md)
 ```readme
-[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/555288473/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/555288473/week.md)
+[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/801638804/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/801638804/week.md)
 ```
 ### Header
-# ReactApps [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/555288473/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/555288473/year.md)
+# simgrim-trading [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/801638804/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/801638804/year.md)
 ```readme
-# ReactApps [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/555288473/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/555288473/year.md)
+# simgrim-trading [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/801638804/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/801638804/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
