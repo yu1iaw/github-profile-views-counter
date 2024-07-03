@@ -1,7 +1,7 @@
 ## [🔙 github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter)
 
-### :octocat: [poodle_translate_rn](https://github.com/yu1iaw/poodle_translate_rn)
-![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/626462707/large/year.png)
+### :octocat: [job-searcher](https://github.com/yu1iaw/job-searcher)
+![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/823280201/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -23,10 +23,10 @@
 			<code>2024/7/1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>2</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>2</code>
 		</td>
 	</tr>
 	<tr>
@@ -45,10 +45,10 @@
 			<code>2024/5/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -89,10 +89,10 @@
 			<code>2024/1/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -155,27 +155,27 @@
 			<code>2023/7/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>5</code>
+			<code>0</code>
 		</td>
 	</tr>
 </table>
 
 </details>
-<small><i>Last updated on 2024/7/3 12:43 AM UTC</i></small>
+<small><i>Last updated on 2024/7/3 12:45 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/626462707/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/626462707/week.md)
+[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/823280201/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/823280201/week.md)
 ```readme
-[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/626462707/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/626462707/week.md)
+[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/823280201/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/823280201/week.md)
 ```
 ### Header
-# poodle_translate_rn [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/626462707/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/626462707/year.md)
+# job-searcher [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/823280201/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/823280201/year.md)
 ```readme
-# poodle_translate_rn [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/626462707/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/626462707/year.md)
+# job-searcher [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/823280201/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/823280201/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
