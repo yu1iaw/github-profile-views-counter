@@ -1,7 +1,7 @@
 ## [🔙 github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter)
 
-### :octocat: [react_native_debut_list-of-goals](https://github.com/yu1iaw/react_native_debut_list-of-goals)
-![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/614274554/large/year.png)
+### :octocat: [prismarter](https://github.com/yu1iaw/prismarter)
+![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/851166147/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2024/9/2 2:55 PM UTC</i></small>
+<small><i>Last updated on 2024/9/2 2:57 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/614274554/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/614274554/week.md)
+[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/851166147/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/851166147/week.md)
 ```readme
-[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/614274554/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/614274554/week.md)
+[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/851166147/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/851166147/week.md)
 ```
 ### Header
-# react_native_debut_list-of-goals [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/614274554/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/614274554/year.md)
+# prismarter [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/851166147/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/851166147/year.md)
 ```readme
-# react_native_debut_list-of-goals [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/614274554/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/614274554/year.md)
+# prismarter [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/851166147/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/851166147/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

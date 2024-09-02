@@ -389,6 +389,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/yu1iaw/github-profile-views-counter/tree/master/readme/847252563/year.md">
+				adsfree-tube
+			</a>
+		</td>
+		<td>
+			2024/8/30 2:57 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/yu1iaw/github-profile-views-counter/raw/master/graph/847252563/small/year.png" height="20"> 1
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/yu1iaw/github-profile-views-counter/tree/master/readme/823280201/year.md">
 				job-searcher
 			</a>
@@ -403,9 +419,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/yu1iaw/github-profile-views-counter/raw/master/graph/823280201/small/year.png" height="20"> 43
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/yu1iaw/github-profile-views-counter/tree/master/readme/851166147/year.md">
+				prismarter
+			</a>
+		</td>
+		<td>
+			2024/8/30 2:57 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/yu1iaw/github-profile-views-counter/raw/master/graph/851166147/small/year.png" height="20"> 0
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2024/9/2 12:22 PM UTC</i></small>
+<small><i>Last updated on 2024/9/2 2:57 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge

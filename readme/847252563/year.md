@@ -1,7 +1,7 @@
 ## [🔙 github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter)
 
-### :octocat: [react_native_debut_list-of-goals](https://github.com/yu1iaw/react_native_debut_list-of-goals)
-![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/614274554/large/year.png)
+### :octocat: [adsfree-tube](https://github.com/yu1iaw/adsfree-tube)
+![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/847252563/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -34,10 +34,10 @@
 			<code>2024/8/1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>1</code>
 		</td>
 		<td>
-			<code>0</code>
+			<code>1</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2024/9/2 2:55 PM UTC</i></small>
+<small><i>Last updated on 2024/9/2 2:57 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/614274554/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/614274554/week.md)
+[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/847252563/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/847252563/week.md)
 ```readme
-[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/614274554/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/614274554/week.md)
+[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/847252563/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/847252563/week.md)
 ```
 ### Header
-# react_native_debut_list-of-goals [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/614274554/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/614274554/year.md)
+# adsfree-tube [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/847252563/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/847252563/year.md)
 ```readme
-# react_native_debut_list-of-goals [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/614274554/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/614274554/year.md)
+# adsfree-tube [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/847252563/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/847252563/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
