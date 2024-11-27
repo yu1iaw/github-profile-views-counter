@@ -1,7 +1,7 @@
 ## [🔙 github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter)
 
-### :octocat: [adsfree-tube](https://github.com/yu1iaw/adsfree-tube)
-![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/847252563/large/year.png)
+### :octocat: [infinite-news-server](https://github.com/yu1iaw/infinite-news-server)
+![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/893741520/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -34,10 +34,10 @@
 			<code>2024/10/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -45,10 +45,10 @@
 			<code>2024/9/1</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -56,10 +56,10 @@
 			<code>2024/8/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2024/11/27 3:36 PM UTC</i></small>
+<small><i>Last updated on 2024/11/27 3:37 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/847252563/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/847252563/week.md)
+[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/893741520/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/893741520/week.md)
 ```readme
-[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/847252563/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/847252563/week.md)
+[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/893741520/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/893741520/week.md)
 ```
 ### Header
-# adsfree-tube [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/847252563/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/847252563/year.md)
+# infinite-news-server [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/893741520/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/893741520/year.md)
 ```readme
-# adsfree-tube [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/847252563/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/847252563/year.md)
+# infinite-news-server [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/893741520/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/893741520/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
