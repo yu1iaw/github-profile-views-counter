@@ -1,7 +1,7 @@
 ## [🔙 github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter)
 
-### :octocat: [fill-your-cup-of-tea](https://github.com/yu1iaw/fill-your-cup-of-tea)
-![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/508028497/large/year.png)
+### :octocat: [reactive-thoughts](https://github.com/yu1iaw/reactive-thoughts)
+![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/902871964/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2024/12/13 12:56 PM UTC</i></small>
+<small><i>Last updated on 2024/12/13 12:54 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/508028497/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/508028497/week.md)
+[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/902871964/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/902871964/week.md)
 ```readme
-[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/508028497/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/508028497/week.md)
+[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/902871964/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/902871964/week.md)
 ```
 ### Header
-# fill-your-cup-of-tea [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/508028497/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/508028497/year.md)
+# reactive-thoughts [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/902871964/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/902871964/year.md)
 ```readme
-# fill-your-cup-of-tea [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/508028497/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/508028497/year.md)
+# reactive-thoughts [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/902871964/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/902871964/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
