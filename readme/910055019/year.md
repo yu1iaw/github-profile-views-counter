@@ -1,7 +1,7 @@
 ## [🔙 github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter)
 
-### :octocat: [react-snippets-extension](https://github.com/yu1iaw/react-snippets-extension)
-![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/784912345/large/year.png)
+### :octocat: [bulls-and-cows-crossplatform](https://github.com/yu1iaw/bulls-and-cows-crossplatform)
+![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/910055019/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -34,10 +34,10 @@
 			<code>2024/11/1</code>
 		</td>
 		<td>
-			<code>6</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>7</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -67,10 +67,10 @@
 			<code>2024/8/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -78,10 +78,10 @@
 			<code>2024/7/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>9</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -111,10 +111,10 @@
 			<code>2024/4/1</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>3</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2024/12/30 11:55 AM UTC</i></small>
+<small><i>Last updated on 2024/12/30 11:56 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/784912345/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/784912345/week.md)
+[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/910055019/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/910055019/week.md)
 ```readme
-[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/784912345/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/784912345/week.md)
+[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/910055019/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/910055019/week.md)
 ```
 ### Header
-# react-snippets-extension [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/784912345/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/784912345/year.md)
+# bulls-and-cows-crossplatform [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/910055019/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/910055019/year.md)
 ```readme
-# react-snippets-extension [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/784912345/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/784912345/year.md)
+# bulls-and-cows-crossplatform [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/910055019/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/910055019/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
