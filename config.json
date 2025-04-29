@@ -34,6 +34,7 @@
     "infinite-news",
     "infinite-news-server",
     "bulls-and-cows-crossplatform",
-    "crudiffy"
+    "crudiffy",
+    "bsky-push-notifier"
   ]
 }
