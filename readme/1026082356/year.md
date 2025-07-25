@@ -1,7 +1,7 @@
 ## [🔙 github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter)
 
-### :octocat: [poodle_translate_rn](https://github.com/yu1iaw/poodle_translate_rn)
-![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/626462707/large/year.png)
+### :octocat: [bsky-richText](https://github.com/yu1iaw/bsky-richText)
+![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/1026082356/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2025/7/25 9:39 AM UTC</i></small>
+<small><i>Last updated on 2025/7/25 9:43 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/626462707/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/626462707/week.md)
+[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/1026082356/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/1026082356/week.md)
 ```readme
-[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/626462707/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/626462707/week.md)
+[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/1026082356/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/1026082356/week.md)
 ```
 ### Header
-# poodle_translate_rn [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/626462707/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/626462707/year.md)
+# bsky-richText [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/1026082356/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/1026082356/year.md)
 ```readme
-# poodle_translate_rn [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/626462707/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/626462707/year.md)
+# bsky-richText [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/1026082356/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/1026082356/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
