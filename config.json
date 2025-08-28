@@ -36,6 +36,7 @@
     "bulls-and-cows-crossplatform",
     "crudiffy",
     "bsky-push-notifier",
-    "bsky-richText"
+    "bsky-richText",
+    "express-task-manager"
   ]
 }
