@@ -1,7 +1,7 @@
 ## [🔙 github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter)
 
-### :octocat: [private-general-availability-for-something-you-are-most-inclined-to-do](https://github.com/yu1iaw/private-general-availability-for-something-you-are-most-inclined-to-do)
-![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/526965576/large/year.png)
+### :octocat: [budget-tracker](https://github.com/yu1iaw/budget-tracker)
+![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/1056270131/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -56,10 +56,10 @@
 			<code>2025/6/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 	</tr>
 	<tr>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2025/9/14 8:12 AM UTC</i></small>
+<small><i>Last updated on 2025/9/14 8:15 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/526965576/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/526965576/week.md)
+[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/1056270131/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/1056270131/week.md)
 ```readme
-[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/526965576/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/526965576/week.md)
+[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/1056270131/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/1056270131/week.md)
 ```
 ### Header
-# private-general-availability-for-something-you-are-most-inclined-to-do [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/526965576/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/526965576/year.md)
+# budget-tracker [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/1056270131/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/1056270131/year.md)
 ```readme
-# private-general-availability-for-something-you-are-most-inclined-to-do [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/526965576/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/526965576/year.md)
+# budget-tracker [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/1056270131/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/1056270131/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
