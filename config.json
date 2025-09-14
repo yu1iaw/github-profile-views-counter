@@ -37,6 +37,7 @@
     "crudiffy",
     "bsky-push-notifier",
     "bsky-richText",
-    "express-task-manager"
+    "express-task-manager",
+    "budget-tracker"
   ]
 }
