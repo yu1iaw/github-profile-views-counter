@@ -1,7 +1,7 @@
 ## [🔙 github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter)
 
-### :octocat: [current-weather-pwa](https://github.com/yu1iaw/current-weather-pwa)
-![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/660709960/large/year.png)
+### :octocat: [vanlife-next](https://github.com/yu1iaw/vanlife-next)
+![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/1082506834/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -164,18 +164,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2025/10/24 11:07 AM UTC</i></small>
+<small><i>Last updated on 2025/10/24 11:10 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/660709960/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/660709960/week.md)
+[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/1082506834/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/1082506834/week.md)
 ```readme
-[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/660709960/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/660709960/week.md)
+[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/1082506834/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/1082506834/week.md)
 ```
 ### Header
-# current-weather-pwa [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/660709960/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/660709960/year.md)
+# vanlife-next [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/1082506834/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/1082506834/year.md)
 ```readme
-# current-weather-pwa [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/660709960/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/660709960/year.md)
+# vanlife-next [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/1082506834/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/1082506834/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
