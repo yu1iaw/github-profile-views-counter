@@ -38,6 +38,7 @@
     "bsky-push-notifier",
     "bsky-richText",
     "express-task-manager",
-    "budget-tracker"
+    "budget-tracker",
+    "vanlife-next"
   ]
 }
