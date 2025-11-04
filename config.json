@@ -39,6 +39,7 @@
     "bsky-richText",
     "express-task-manager",
     "budget-tracker",
-    "vanlife-next"
+    "vanlife-next",
+    "fancy-vanlife"
   ]
 }
