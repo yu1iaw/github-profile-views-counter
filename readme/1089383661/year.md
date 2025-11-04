@@ -1,7 +1,7 @@
 ## [🔙 github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter)
 
-### :octocat: [be-driven](https://github.com/yu1iaw/be-driven)
-![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/859817890/large/year.png)
+### :octocat: [fancy-vanlife](https://github.com/yu1iaw/fancy-vanlife)
+![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/1089383661/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -155,27 +155,27 @@
 			<code>2024/11/1</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>6</code>
+			<code>0</code>
 		</td>
 	</tr>
 </table>
 
 </details>
-<small><i>Last updated on 2025/11/4 9:26 AM UTC</i></small>
+<small><i>Last updated on 2025/11/4 9:28 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/859817890/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/859817890/week.md)
+[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/1089383661/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/1089383661/week.md)
 ```readme
-[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/859817890/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/859817890/week.md)
+[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/1089383661/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/1089383661/week.md)
 ```
 ### Header
-# be-driven [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/859817890/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/859817890/year.md)
+# fancy-vanlife [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/1089383661/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/1089383661/year.md)
 ```readme
-# be-driven [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/859817890/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/859817890/year.md)
+# fancy-vanlife [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/1089383661/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/1089383661/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

@@ -611,9 +611,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/yu1iaw/github-profile-views-counter/raw/master/graph/1082506834/small/year.png" height="20"> 0
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/yu1iaw/github-profile-views-counter/tree/master/readme/1089383661/year.md">
+				fancy-vanlife
+			</a>
+		</td>
+		<td>
+			2025/11/1 9:28 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/yu1iaw/github-profile-views-counter/raw/master/graph/1089383661/small/year.png" height="20"> 0
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2025/11/4 6:23 AM UTC</i></small>
+<small><i>Last updated on 2025/11/4 9:28 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
