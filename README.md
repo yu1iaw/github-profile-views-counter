@@ -213,6 +213,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/yu1iaw/github-profile-views-counter/tree/master/readme/574462714/year.md">
+				blobio2
+			</a>
+		</td>
+		<td>
+			2025/12/21 1:09 AM UTC
+		</td>
+		<td>
+			4
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/yu1iaw/github-profile-views-counter/raw/master/graph/574462714/small/year.png" height="20"> 15
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/yu1iaw/github-profile-views-counter/tree/master/readme/526965576/year.md">
 				private-general-availability-for-something-you-are-most-inclined-to-do
 			</a>
@@ -613,7 +629,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/12/23 1:19 AM UTC</i></small>
+<small><i>Last updated on 2025/12/23 6:26 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
