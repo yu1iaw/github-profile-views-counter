@@ -373,22 +373,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/yu1iaw/github-profile-views-counter/tree/master/readme/784912345/year.md">
-				react-snippets-extension
-			</a>
-		</td>
-		<td>
-			2026/1/11 1:15 AM UTC
-		</td>
-		<td>
-			14
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/yu1iaw/github-profile-views-counter/raw/master/graph/784912345/small/year.png" height="20"> 32
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/yu1iaw/github-profile-views-counter/tree/master/readme/801638804/year.md">
 				simgrim-trading
 			</a>
@@ -629,7 +613,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/1/13 12:34 PM UTC</i></small>
+<small><i>Last updated on 2026/1/13 6:26 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
