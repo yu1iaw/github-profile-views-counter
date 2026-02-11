@@ -181,22 +181,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/yu1iaw/github-profile-views-counter/tree/master/readme/614274554/year.md">
-				react_native_debut_list-of-goals
-			</a>
-		</td>
-		<td>
-			2026/2/9 1:24 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/yu1iaw/github-profile-views-counter/raw/master/graph/614274554/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/yu1iaw/github-profile-views-counter/tree/master/readme/555288473/year.md">
 				ReactApps
 			</a>
@@ -629,7 +613,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/2/11 6:56 AM UTC</i></small>
+<small><i>Last updated on 2026/2/11 12:53 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
