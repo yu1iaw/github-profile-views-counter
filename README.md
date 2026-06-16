@@ -549,6 +549,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/yu1iaw/github-profile-views-counter/tree/master/readme/1026082356/year.md">
+				bsky-richText
+			</a>
+		</td>
+		<td>
+			2026/6/14 2:52 AM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/yu1iaw/github-profile-views-counter/raw/master/graph/1026082356/small/year.png" height="20"> 23
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/yu1iaw/github-profile-views-counter/tree/master/readme/1046246696/year.md">
 				express-task-manager
 			</a>
@@ -613,7 +629,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/6/16 11:00 AM UTC</i></small>
+<small><i>Last updated on 2026/6/16 4:30 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
