@@ -1,7 +1,7 @@
 ## [🔙 github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter)
 
-### :octocat: [blobio2](https://github.com/yu1iaw/blobio2)
-![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/574462714/large/year.png)
+### :octocat: [deliftech-next](https://github.com/yu1iaw/deliftech-next)
+![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/1199738090/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -155,27 +155,27 @@
 			<code>2025/6/1</code>
 		</td>
 		<td>
-			<code>1</code>
+			<code>0</code>
 		</td>
 		<td>
-			<code>2</code>
+			<code>0</code>
 		</td>
 	</tr>
 </table>
 
 </details>
-<small><i>Last updated on 2026/6/29 8:10 AM UTC</i></small>
+<small><i>Last updated on 2026/6/29 8:13 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/574462714/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/574462714/week.md)
+[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/1199738090/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/1199738090/week.md)
 ```readme
-[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/574462714/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/574462714/week.md)
+[![Image of github-profile-views-counter](https://github.com/yu1iaw/github-profile-views-counter/blob/master/svg/1199738090/badge.svg)](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/1199738090/week.md)
 ```
 ### Header
-# blobio2 [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/574462714/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/574462714/year.md)
+# deliftech-next [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/1199738090/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/1199738090/year.md)
 ```readme
-# blobio2 [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/574462714/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/574462714/year.md)
+# deliftech-next [<img alt="Image of github-profile-views-counter" src="https://github.com/yu1iaw/github-profile-views-counter/blob/master/graph/1199738090/small/year.png" height="20">](https://github.com/yu1iaw/github-profile-views-counter/blob/master/readme/1199738090/year.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
