@@ -69,22 +69,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/yu1iaw/github-profile-views-counter/tree/master/readme/755902107/year.md">
-				supachat-mvp
-			</a>
-		</td>
-		<td>
-			2026/6/30 2:35 AM UTC
-		</td>
-		<td>
-			20
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/yu1iaw/github-profile-views-counter/raw/master/graph/755902107/small/year.png" height="20"> 78
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/yu1iaw/github-profile-views-counter/tree/master/readme/659772349/year.md">
 				socket-app
 			</a>
@@ -645,7 +629,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/7/2 1:45 PM UTC</i></small>
+<small><i>Last updated on 2026/7/2 7:15 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
