@@ -69,38 +69,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/yu1iaw/github-profile-views-counter/tree/master/readme/755902107/year.md">
-				supachat-mvp
-			</a>
-		</td>
-		<td>
-			2026/7/5 2:13 AM UTC
-		</td>
-		<td>
-			20
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/yu1iaw/github-profile-views-counter/raw/master/graph/755902107/small/year.png" height="20"> 78
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/yu1iaw/github-profile-views-counter/tree/master/readme/659772349/year.md">
-				socket-app
-			</a>
-		</td>
-		<td>
-			2026/7/5 2:13 AM UTC
-		</td>
-		<td>
-			5
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/yu1iaw/github-profile-views-counter/raw/master/graph/659772349/small/year.png" height="20"> 99
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/yu1iaw/github-profile-views-counter/tree/master/readme/820328665/year.md">
 				snapgram
 			</a>
@@ -113,22 +81,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/yu1iaw/github-profile-views-counter/raw/master/graph/820328665/small/year.png" height="20"> 45
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/yu1iaw/github-profile-views-counter/tree/master/readme/629386293/year.md">
-				dads_nostalgia_bulls_and_cows_rn
-			</a>
-		</td>
-		<td>
-			2026/7/5 2:13 AM UTC
-		</td>
-		<td>
-			4
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/yu1iaw/github-profile-views-counter/raw/master/graph/629386293/small/year.png" height="20"> 33
 		</td>
 	</tr>
 	<tr>
@@ -645,7 +597,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/7/7 2:14 PM UTC</i></small>
+<small><i>Last updated on 2026/7/7 7:47 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
