@@ -69,22 +69,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/yu1iaw/github-profile-views-counter/tree/master/readme/755902107/year.md">
-				supachat-mvp
-			</a>
-		</td>
-		<td>
-			2026/8/15 12:44 AM UTC
-		</td>
-		<td>
-			20
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/yu1iaw/github-profile-views-counter/raw/master/graph/755902107/small/year.png" height="20"> 78
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/yu1iaw/github-profile-views-counter/tree/master/readme/659772349/year.md">
 				socket-app
 			</a>
@@ -97,22 +81,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/yu1iaw/github-profile-views-counter/raw/master/graph/659772349/small/year.png" height="20"> 99
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/yu1iaw/github-profile-views-counter/tree/master/readme/820328665/year.md">
-				snapgram
-			</a>
-		</td>
-		<td>
-			2026/8/15 12:44 AM UTC
-		</td>
-		<td>
-			14
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/yu1iaw/github-profile-views-counter/raw/master/graph/820328665/small/year.png" height="20"> 45
 		</td>
 	</tr>
 	<tr>
@@ -161,22 +129,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/yu1iaw/github-profile-views-counter/raw/master/graph/616364805/small/year.png" height="20"> 15
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/yu1iaw/github-profile-views-counter/tree/master/readme/565466588/year.md">
-				todo
-			</a>
-		</td>
-		<td>
-			2026/8/15 12:44 AM UTC
-		</td>
-		<td>
-			2
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/yu1iaw/github-profile-views-counter/raw/master/graph/565466588/small/year.png" height="20"> 10
 		</td>
 	</tr>
 	<tr>
@@ -357,70 +309,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/yu1iaw/github-profile-views-counter/tree/master/readme/764600091/year.md">
-				sicilian_pizza_ordering
-			</a>
-		</td>
-		<td>
-			2026/8/15 12:46 AM UTC
-		</td>
-		<td>
-			22
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/yu1iaw/github-profile-views-counter/raw/master/graph/764600091/small/year.png" height="20"> 226
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/yu1iaw/github-profile-views-counter/tree/master/readme/784912345/year.md">
-				react-snippets-extension
-			</a>
-		</td>
-		<td>
-			2026/8/15 12:46 AM UTC
-		</td>
-		<td>
-			14
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/yu1iaw/github-profile-views-counter/raw/master/graph/784912345/small/year.png" height="20"> 32
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/yu1iaw/github-profile-views-counter/tree/master/readme/801638804/year.md">
-				simgrim-trading
-			</a>
-		</td>
-		<td>
-			2026/8/15 12:46 AM UTC
-		</td>
-		<td>
-			11
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/yu1iaw/github-profile-views-counter/raw/master/graph/801638804/small/year.png" height="20"> 50
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/yu1iaw/github-profile-views-counter/tree/master/readme/847252563/year.md">
-				adsfree-tube
-			</a>
-		</td>
-		<td>
-			2026/8/15 12:46 AM UTC
-		</td>
-		<td>
-			7
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/yu1iaw/github-profile-views-counter/raw/master/graph/847252563/small/year.png" height="20"> 25
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/yu1iaw/github-profile-views-counter/tree/master/readme/823280201/year.md">
 				job-searcher
 			</a>
@@ -433,22 +321,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/yu1iaw/github-profile-views-counter/raw/master/graph/823280201/small/year.png" height="20"> 43
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/yu1iaw/github-profile-views-counter/tree/master/readme/851166147/year.md">
-				prismarter
-			</a>
-		</td>
-		<td>
-			2026/8/15 12:46 AM UTC
-		</td>
-		<td>
-			13
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/yu1iaw/github-profile-views-counter/raw/master/graph/851166147/small/year.png" height="20"> 32
 		</td>
 	</tr>
 	<tr>
@@ -497,38 +369,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/yu1iaw/github-profile-views-counter/raw/master/graph/893741520/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/yu1iaw/github-profile-views-counter/tree/master/readme/910055019/year.md">
-				bulls-and-cows-crossplatform
-			</a>
-		</td>
-		<td>
-			2026/8/15 12:47 AM UTC
-		</td>
-		<td>
-			5
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/yu1iaw/github-profile-views-counter/raw/master/graph/910055019/small/year.png" height="20"> 5
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/yu1iaw/github-profile-views-counter/tree/master/readme/928262847/year.md">
-				crudiffy
-			</a>
-		</td>
-		<td>
-			2026/8/15 12:47 AM UTC
-		</td>
-		<td>
-			16
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/yu1iaw/github-profile-views-counter/raw/master/graph/928262847/small/year.png" height="20"> 35
 		</td>
 	</tr>
 	<tr>
@@ -597,22 +437,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/yu1iaw/github-profile-views-counter/tree/master/readme/1082506834/year.md">
-				vanlife-next
-			</a>
-		</td>
-		<td>
-			2026/8/15 12:48 AM UTC
-		</td>
-		<td>
-			2
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/yu1iaw/github-profile-views-counter/raw/master/graph/1082506834/small/year.png" height="20"> 3
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/yu1iaw/github-profile-views-counter/tree/master/readme/1089383661/year.md">
 				fancy-vanlife
 			</a>
@@ -645,7 +469,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/8/17 12:29 PM UTC</i></small>
+<small><i>Last updated on 2026/8/17 6:29 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
